@@ -3,4 +3,5 @@
   <con:settings/>
   <con:project status="CLOSED" name="country-soapui-project.xml">E:/Test16/ATestautomasisering/Assignment/country-soapui-project.xml</con:project>
   <con:project name="country">E:/Test16/ATestautomasisering/country-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
 </con:soapui-workspace>
